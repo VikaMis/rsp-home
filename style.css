@@ -85,7 +85,7 @@ header {
 }
 .main-section {
     margin: 0 auto;
-    background-image: url(/images/banner.png);
+    background-image: url(banner.png);
     width: 100%;
     height: 100vh;
 
@@ -170,7 +170,7 @@ header {
     padding: 20px;
 }
 .production {
-    background-image: url(/images/image.svg);
+    background-image: url(image.svg);
     background-size: cover;
     width: 100%;
     height: 740px;
@@ -243,7 +243,7 @@ header {
 
 .form-section {
     width: 100%;
-    background-image: url(/images/bacground.svg);
+    background-image: url(bacground.svg);
     background-size: cover;
     padding-top: 80px;
     padding-bottom: 80px;
@@ -303,7 +303,7 @@ header {
     width: 100%;
     height: 720px;
     background-size: cover;
-    background-image: url(/images/banner-q.svg);
+    background-image: url(banner-q.svg);
 }
 .secrets-content {
     height: 720px;
