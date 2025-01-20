@@ -382,6 +382,9 @@ header {
     }
     .form-flex {
         flex-direction: column;
+        gap: 50px;
+    .form-flex-left  {
+        gap: 16px;
     }
     .form-flex-left {
         width: 100%;
